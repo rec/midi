@@ -38,7 +38,7 @@
 038 WarmBass B-1 - C4 Warm electric Precision bass sound. Use FC (CC#4) to make sound brighter or darker.
 039 YamaBass A-1 - C4 Yamaha 5-string electric bass with brand new strings and “studio EQ”.
 040 Box Bass C0 - C4 Similar to FM synth bass with filter control on MW. Uses resonator for “boxy” effect.
-041 BassCab B-1 - G#4 Slightly distorted electric bass with Resonator simulation of speaker cabinet tone.
+041 BassCab B-1 - G#4 Slightly distorted electric ba
 042 FruitBas C0 - C4 Fruity electric bass sound.
 043 AcidBas! B-1 - C5 Bass sound for acid jazz.
 044 SqrBass! B-1 - G4 Square wave synth bass.

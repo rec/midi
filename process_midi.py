@@ -25,9 +25,41 @@ def read(lines):
     return result
 
 
-def main():
+def read_original():
     with open("all-vl70.txt") as fp_in, open('all-vl70.json', 'w') as fp_out:
         json.dump(read(fp_in), fp_out, indent=2)
 
 
-main()
+def compute_genres():
+    with open("all-vl70.json") as fp_in, open('categories.json', 'w') as fp_out:
+        genres = {}
+        for instrument, a in json.load(fp_in).items():
+            for bank, b in a.items():
+                for number, desc in b.items():
+                    msg = f"{instrument}:{bank}:{number}: {desc[0]}"
+                    genres.setdefault(find_category(desc), []).append(msg)
+        json.dump(genres, fp_out, indent=2)
+
+
+
+def find_category(desc):
+    for cat in _CATEGORIES:
+        if any(c in d for c in cat for d in desc):
+            return cat[0]
+    return "none"
+
+
+_CATEGORIES = (
+    ("reed", "Reed", "oboe", "Oboe", "Chanter", "Bassoon"),
+    ("flute", "flute", "pipe"),
+    ("clarinet", "Cla", "inet"),
+    ("bass", 'Ba', 'Slap', 'Bs', 'Upright', 'Fnground', 'Fretles', 'Frtles', 'Chamlion'),
+    ("violin", "Viol", "viol", "Bow", "Vln"),
+    ("cello", "Cell"),
+    ("trombone", "Bone", "bone", "Tb"),
+    ("trumpet", "Trump", "Tpt"),
+    ("guitar", "Guit"),
+    ("synth", "Syn"),
+)
+
+compute_genres()
