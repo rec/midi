@@ -1,6 +1,3 @@
-Preset 1
-No. Voice Name Note Range Comment
-
 001 Mad Tube C1 - B4 An extremely aggressive sound that lies between synth lead and distortion guitar.
 002 VintgLd B-1 - C6 Multi-oscillator type synth lead.
 003 SpaceZoo *** Try moving PB, MW, and AT in various ways.
@@ -129,10 +126,6 @@ No. Voice Name Note Range Comment
 126 WX J Gtr C0 - A4 Jazz guitar sound suitable for performance with a wind controller. Breath character simulates string muting.
 127 Shakuha! C1 - C6 A shakuhachi simulation. Moving CC#13 produces the upper (falsetto) register.
 128 LipClari F-1 - C6 LipClari Imaginary instrument simulating a trumpet mouthpiece blown through a clarinet body.
-
-
-PRESET 2 VOICE LIST
-
 001 Vento C0 - C6 High noise content in this flute type sound.
 002 Floboe C0 - C6 Imaginary instrument combining a flute and oboe.
 003 Sintax F0 - C5 Synthetic sax type sound.
@@ -261,3 +254,259 @@ PRESET 2 VOICE LIST
 126 Crumbon E0 - G5 Mellow and warm new hybrid double reed (blend of crumhorm, trombone and oboe).
 127 Klarina E0 - B5 New hybrid single reed driven pan pipes. Use (-) PB for “scoop” effect and (+) PB for “growl” effect.
 128 ReedWin E0 - C6 New hybrid jet lip driven cylindrical woodwind (a flute mouthpiece on a clarinet body).
+001 Trumpet
+002 Maynard
+003 Alpert
+004 Chet Tpt
+005 Lead Tpt
+006 ClassTpt
+007 StrMtTpt
+008 CupMtTpt
+009 WahMtTpt
+010 WaTptCC4
+011 HrmMtTpt
+012 Mute Tpt
+013 Picc.Tpt
+014 Cornet
+015 Flugel
+016 Mangione
+017 Trombone
+018 Big Bone
+019 BriteTbn
+020 ValveTbn
+021 Jam Bone
+022 Bass Tbn
+023 BcktMtTb
+024 DorseyTb
+025 WX Horn
+026 BrassHrn
+027 BriteHrn
+028 ff Horn
+029 OrchHorn
+030 New Horn
+031 Euphnium
+032 Tuba
+033 SoprnoSx
+034 KennyGee
+035 HeyKenG.
+036 Branford
+037 TraneSop
+038 BrtSopSx
+039 Alto Sax
+040 Sanborn
+041 BirdAlto
+042 ExprAlto
+043 Desmond
+044 Koz Alto
+045 Everette
+046 NY Alto
+047 NY Tenor
+048 TenorSax
+049 MBrecker
+050 PopTenor
+051 SoulTenr
+052 RaspyTnr
+053 Getz Tnr
+054 JobimTnr
+055 TenorSub
+056 Bari Sax
+057 TiteBari
+058 Sax Sect
+059 Air Sax
+060 Saxual
+061 Sanford
+062 Piccolo
+063 Flute
+064 Real Flt
+065 SilvrFlt
+066 ClassFlt
+067 Nz Flute
+068 VoxFlute
+069 AquaFlut
+070 OakFlute
+071 Bass Flt
+072 Afri Flt
+073 PennyWhs
+074 TinWhist
+075 Flutofon
+076 Inca Flt
+077 Noze Flt
+078 Quena
+079 Quena x2
+080 PanFlute
+081 Andean
+082 Pan Pipe
+083 Bali Flt
+084 IndiaFlt
+085 Ambience
+086 WetFone
+087 Maya Flt
+088 Shakuhat
+089 Bamboo
+090 PanPicol
+091 Coca!!
+092 Ocarina!
+093 Lonely
+094 Recorder
+095 Clarinet
+096 JazzClar
+097 ClsClrnt
+098 Bs.Clrnt
+099 BrtBsClr
+100 Oboe
+101 Eng.Horn
+102 SftEngHn
+103 Bassoon
+104 Flurinet
+105 Crumbon
+106 Klarina
+107 ThaiReed
+108 Chanter
+109 Digirdoo
+110 IslePipe
+111 SoftPipe
+112 LitePipe
+113 CelloSax
+114 YamaBotl
+115 Solo Vln
+116 DrkVioln
+117 BrtVioln
+118 SweetVln
+119 Fiddle
+120 Viola
+121 SwtViola
+122 RosinVla
+123 Cello
+124 SoloCell
+125 DrkCello
+126 Bow Bass
+127 HiStrEns
+128 Pizzicat
+001 Harmonca
+002 MouthHrp
+003 BluesHrm
+004 Stevie!
+005 Toots!
+006 Accordn.
+007 Concrtna
+008 Jazz B3
+009 Clavinet
+010 Funky
+011 SteelDrm
+012 VL Drums
+013 Yangchin
+014 Asia Plk
+015 JapanPlk
+016 Tambura
+017 Sitar
+018 ElecHarp
+019 SteelGtr
+020 AcGuitar
+021 Flamenco
+022 SpainGtr
+023 NylonGtr
+024 SwtNylGt
+025 Les Gtr
+026 Joe Pass
+027 FMGuitar
+028 Lucille
+029 >>PAT<<
+030 EFXStrat
+031 ClnStrat
+032 Surf Gtr
+033 Mute Gtr
+034 WahGtCC4
+035 PatSynGt
+036 BluesGtr
+037 Clapton
+038 PopODGtr
+039 Carlos
+040 TubeGtr!
+041 FET Guit
+042 Dist.Gtr
+043 Wah Lead
+044 Wah Dist
+045 GuitHero
+046 Eddie4th
+047 Feedback
+048 Hendrix
+049 TalkBox!
+050 !XTREME!
+051 Hercules
+052 SynClav
+053 Syncro!
+054 Theremin
+055 Avalana
+056 Voxanne
+057 Beauty!
+058 SpaceOut
+059 Ghost Ld
+060 PtchNoiz
+061 BreathTb
+062 Air Lead
+063 Breezer
+064 ZawiLead
+065 Voxofone
+066 Whistler
+067 Debussy
+068 Sines()
+069 SmoothLd
+070 Slinky
+071 AirStick
+072 RotoFone
+073 Vox Lead
+074 Squeezy
+075 Lyricon
+076 Ana.Lead
+077 Mobius
+078 70s Lead
+079 Osc Lead
+080 Saw Lead
+081 SAWS/|/|
+082 ResoSaws
+083 EML Lead
+084 HPFilter
+085 EWI ARP
+086 EWI Lead
+087 Koz Lead
+088 MattLead
+089 PATCHMAN
+090 Taurus
+091 Phaser-{
+092 SynZilla
+093 MegaSyn
+094 Winwood
+095 Pulse Ld
+096 Corea!!
+097 SquareLd
+098 Korg Ld
+099 LuckyMan
+100 Lyle
+101 Analog
+102 Nyle
+103 Floyd Ld
+104 BorgHorn
+105 Freik
+106 Fazar
+107 Dungeon
+108 NevrLand
+109 Brekord1
+110 Brekord2
+111 Brekord3
+112 ElecBass
+113 MotownBs
+114 SteinBas
+115 FunkBass
+116 PickBass
+117 SnapBass
+118 Thumb Bs
+119 TiteBass
+120 JacoBass
+121 StratoBs
+122 Sticky!
+123 MuteBass
+124 Ac Bass
+125 Juicy Bs
+126 GnarlyBs
+127 Moog Bs
+128 Bass1000

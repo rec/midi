@@ -1,0 +1,2062 @@
+{
+  "stock": {
+    "A": {
+      "001": [
+        "Mad Tube",
+        "C1 - B4",
+        "An extremely aggressive sound that lies between synth lead and distortion guitar."
+      ],
+      "002": [
+        "VintgLd",
+        "B-1 - C6",
+        "Multi-oscillator type synth lead."
+      ],
+      "003": [
+        "SpaceZoo",
+        "***",
+        "Try moving PB, MW, and AT in various ways."
+      ],
+      "004": [
+        "GuitHero",
+        "G0 - C5",
+        "A distortion guitar. Controlling the feedback with AT is particularly effective."
+      ],
+      "005": [
+        "StoneHng",
+        "F0 - G6",
+        "MW produces a sustained sound."
+      ],
+      "006": [
+        "Whizzer",
+        "G#0 - F#5",
+        "Long sustaining synth tone similar to bass guitar harmonics."
+      ],
+      "007": [
+        "SimpleBa",
+        "C0 - C6",
+        "Straight ahead synth bass with some distortion."
+      ],
+      "008": [
+        "ClavBass",
+        "C0 - E3",
+        "Bass sound with both electric/acoustic and synthesizer qualities. If you use FC (CC#4) you can get \u201cclavinet\u201d style overtones."
+      ],
+      "009": [
+        "SuperBas",
+        "C0 - F#3",
+        "DX7 style slapped bass."
+      ],
+      "010": [
+        "New Slap",
+        "C0 - D5",
+        "New type slap bass with punchy power."
+      ],
+      "011": [
+        "RockPigs",
+        "C0 - E4",
+        "Organ-type synth lead sound. AT produces a neighing effect."
+      ],
+      "012": [
+        "Igneous",
+        "C0 - C5",
+        "Feedbacked synth lead sound."
+      ],
+      "013": [
+        "50 / 50",
+        "C0 - F5",
+        "Simple Square wave synth lead."
+      ],
+      "014": [
+        "Cybastrg",
+        "C-1 - C6",
+        "Metallic driller killer sound."
+      ],
+      "015": [
+        "Wynth",
+        "A-1 - G5",
+        "Filter wind synth with control from BC and velocity."
+      ],
+      "016": [
+        "BuzzSaw",
+        "E-1 - C6",
+        "Play with lots of MW filter control."
+      ],
+      "017": [
+        "ZubZub",
+        "B-1 - C6",
+        "Biting analog synth sound. MW controls filter."
+      ],
+      "018": [
+        "Blue",
+        "G0 - D3",
+        "Fizzy synthesiser sound."
+      ],
+      "019": [
+        "OsciLead",
+        "C0 - G5",
+        "Octave synth lead sound."
+      ],
+      "020": [
+        "SqrLead",
+        "D#0 - C6",
+        "Nice Square lead tone. Lowering FC (CC#4) closes filter."
+      ],
+      "021": [
+        "Bigger",
+        "C-1 - C6",
+        "Big analog synth sound - velocity controls filter and volume."
+      ],
+      "022": [
+        "AnaSquid",
+        "G-1 - C6",
+        "Analog synth type sound with MW filter control."
+      ],
+      "023": [
+        "SharpSyn",
+        "G0 - C6",
+        "Slightly mode unstable velocity sensitive sound."
+      ],
+      "024": [
+        "AnaWave",
+        "C0 - E4",
+        "Analog synth type sound with MW filter control."
+      ],
+      "025": [
+        "AnaWurl",
+        "C0 - C6",
+        "Velocity sensitive sound somewhat like a Vintage EP passed through aresonant filter."
+      ],
+      "026": [
+        "Babalog",
+        "C0 - C6",
+        "Velocity controlled synth wind sound."
+      ],
+      "027": [
+        "FngerBass",
+        "B-1 - C4",
+        "Vigorous finger bass sound."
+      ],
+      "028": [
+        "Upright",
+        "B-1 - C4",
+        "Simulation of accoustic bass."
+      ],
+      "029": [
+        "Fnground",
+        "A-1 - C4",
+        "Finger bass with particular sound of rear pick up."
+      ],
+      "030": [
+        "Birdland",
+        "A-1 - C4",
+        "Midway between an analog synth and an electric bass sound. The high rangeproduces harmonics."
+      ],
+      "031": [
+        "FlageoBs",
+        "G0 - C4",
+        "Harmonics of a fingerd electric bass."
+      ],
+      "032": [
+        "DampBass",
+        "G-1 - C3",
+        "Damped Pluck-Bass with a dry speaker sound."
+      ],
+      "033": [
+        "Fretles!",
+        "E-1 - C4",
+        "Fretless bass usable for either rhythm or melody."
+      ],
+      "034": [
+        "Frtles!2",
+        "B-1 - C#4",
+        "Another fretless bass, good for melody play."
+      ],
+      "035": [
+        "ThumBass",
+        "C0 - C3",
+        "Thumped Bass."
+      ],
+      "036": [
+        "RockBass",
+        "G-1 - C4",
+        "Heavy overdrive rock bass sound."
+      ],
+      "037": [
+        "SmooBass",
+        "B-1 - A#3",
+        "Expressive synth bass sound with filter control by velocity and \u201cvintage analog\u201d character."
+      ],
+      "038": [
+        "WarmBass",
+        "B-1 - C4",
+        "Warm electric Precision bass sound. Use FC (CC#4) to make sound brighter or darker."
+      ],
+      "039": [
+        "YamaBass",
+        "A-1 - C4",
+        "Yamaha 5-string electric bass with brand new strings and \u201cstudio EQ\u201d."
+      ],
+      "040": [
+        "Box Bass",
+        "C0 - C4",
+        "Similar to FM synth bass with filter control on MW. Uses resonator for \u201cboxy\u201d effect."
+      ],
+      "041": [
+        "BassCab",
+        "B-1 - G#4",
+        "Slightly distorted electric bass with Resonator simulation of speaker cabinet tone."
+      ],
+      "042": [
+        "FruitBas",
+        "C0 - C4",
+        "Fruity electric bass sound."
+      ],
+      "043": [
+        "AcidBas!",
+        "B-1 - C5",
+        "Bass sound for acid jazz."
+      ],
+      "044": [
+        "SqrBass!",
+        "B-1 - G4",
+        "Square wave synth bass."
+      ],
+      "045": [
+        "PulsClav",
+        "A-1 - G5",
+        "Synth-Clavinet for funky licks."
+      ],
+      "046": [
+        "MogueBas",
+        "B-1 - C#7",
+        "A classic synth bass sound."
+      ],
+      "047": [
+        "BoppaBas",
+        "B-1 - C4",
+        "Synth bass with sub-octave undertone."
+      ],
+      "048": [
+        "BuzzrBas",
+        "D0 - E4",
+        "FM style, bright and buzzy electronic keyboard bass. For fast tempo trance, acid, house, and techno style sequenced basslines."
+      ],
+      "049": [
+        "MuteHrBs",
+        "C0 - C5",
+        "Upper register bass harmonic sound, with accentuated fingering \u201cpop\u201d similar to playing muted guitar style with the palm of the picking hand on the bridge."
+      ],
+      "050": [
+        "TekBass",
+        "B-1 - C4",
+        "Synth bass with sub-octave undertone."
+      ],
+      "051": [
+        "TranzBas",
+        "C0 - F#4",
+        "TB303 style synth bass. For fast tempo trance, acid, house, and techno style sequenced basslines."
+      ],
+      "052": [
+        "Chamlion",
+        "C0 - B4",
+        "Dry Synthbass."
+      ],
+      "053": [
+        "ParaSyn",
+        "A-1 - C4",
+        "Strong, up-front synth bass, ideal for 70\u2019s Jazz-Funk. If you like that sort of thing."
+      ],
+      "054": [
+        "SteamBas",
+        "C0 - C#7",
+        "Use lots of PB (Embouchure) for finger slides. Gives greater tonal variety."
+      ],
+      "055": [
+        "BooBass",
+        "B-1 - C5",
+        "MW controls filter and gives sharper attack."
+      ],
+      "056": [
+        "WhelkBas",
+        "E-1 - C#5",
+        "Synth bass. MW controls filter as does velocity."
+      ],
+      "057": [
+        "AtackSyn",
+        "G0 - B4",
+        "Synth bass sound with strong attack."
+      ],
+      "058": [
+        "Q.Klav",
+        "A-1 - C#4",
+        "Deeply funky clav sound. Try with Phasing on in Chorus section, or alter low and upper mid with Equaliser in modifier section. Altering the Aural Exciter parameters will also have a big effect."
+      ],
+      "059": [
+        "Sitar!",
+        "G0 - E4",
+        "Simulation of Sitar."
+      ],
+      "060": [
+        "India",
+        "F#0 - C6",
+        "Sitar-type ethnic sound."
+      ],
+      "061": [
+        "YamSteel",
+        "A2 - C6",
+        "Steel drum-type ethnic sound."
+      ],
+      "062": [
+        "StungSt",
+        "F#0 - B5",
+        "FM style, metallic overtone synth. Can use as lead or bass ."
+      ],
+      "063": [
+        "Mu",
+        "***",
+        "MW brings in noise. CC#13 can be used to modify the character of the noise."
+      ],
+      "064": [
+        "Waterphn",
+        "***",
+        "Mysterious percussion instrument. Attack is softened with MW. Squeakiness (embouchure) on CC#13. Violent SCRAPE sound with AT."
+      ],
+      "065": [
+        "DinoPerc",
+        "***",
+        "Use with different combinations of MW and PB to produce complex noise percussion."
+      ],
+      "066": [
+        "Formula",
+        "***",
+        "Engine-like sound effect."
+      ],
+      "067": [
+        "Jurassic",
+        "***",
+        "Use PB, MW, and CC#13 to produce the cries of various dinosaurs."
+      ],
+      "068": [
+        "Devil",
+        "***",
+        "A sound effect using extreme oscillation. Try moving PB, MW, and CC#13 in various ways."
+      ],
+      "069": [
+        "SpcHorse",
+        "***",
+        "While applying MW, add AT to create a neighing sound."
+      ],
+      "070": [
+        "Jason",
+        "***",
+        "Use the MW to turn this into a strongly noisy sound effect."
+      ],
+      "071": [
+        "Suedhead",
+        "F-1 - C6",
+        "Sound effect. Make liberal use of Pitch and MWs."
+      ],
+      "072": [
+        "Spanish",
+        "F-1 - E4",
+        "Spanish type acoustic guitar."
+      ],
+      "073": [
+        "JazzGtr!",
+        "B-1 - A4",
+        "Electric guitar suitable mainly for jazz."
+      ],
+      "074": [
+        "JazzyGtr",
+        "A-1 - C6",
+        "Velocity dynamic jazz style sustaining guitar lead."
+      ],
+      "075": [
+        "L7 Pluck",
+        "B-1 - E4",
+        "A classic pluck sound."
+      ],
+      "076": [
+        "WetPluck",
+        "B-1 - E4",
+        "A guitar sound that readily accepts effects such as flanging."
+      ],
+      "077": [
+        "Comp Gtr",
+        "B-1 - A4",
+        "Compressed, clean electric strat guitar sound."
+      ],
+      "078": [
+        "FunkyGtr",
+        "B-1 - D5",
+        "Snappy \u201c70\u2019s style\u201d funk guitar, for rhythm and comping."
+      ],
+      "079": [
+        "Thin Gtr",
+        "B-1 - G5",
+        "Clean uncompressed electric guitar with \u201cthin gauge\u201d new strings, good for country, R&B, lead solos etc. Using a high velocity input results in a continuous sound."
+      ],
+      "080": [
+        "Carlos",
+        "B-1 - G4",
+        "Overdrive guitar, front pick up type."
+      ],
+      "081": [
+        "Destiny",
+        "C0 - C5",
+        "Distortion guitar made from a sustained sound with strong attack. CC#13 for feedback effect."
+      ],
+      "082": [
+        "Gonzo",
+        "B-1 - G5",
+        "Velocity controlled. PB down controls noise effect."
+      ],
+      "083": [
+        "Grunge",
+        "C0 - B6",
+        "Dirty synth lead."
+      ],
+      "084": [
+        "Ossyncro",
+        "B-1 - G5",
+        "Cross modulation-type synth lead."
+      ],
+      "085": [
+        "Talk Box",
+        "F#0 - E7",
+        "Voicy Lead, somehow like a guitar-Talkbox."
+      ],
+      "086": [
+        "SyncLed",
+        "B-1 - E6",
+        "Sync type lead tone. Use with Exp or BC - with no pressure sound has stacatto muted tone. Increase for full tone. FC (CC#4) at full produces wide open tone. Lowering darkens timbre. Try striking at hard velocity with no BC, pitchbend up, and slowly."
+      ],
+      "087": [
+        "Old Mini",
+        "A-1 - A5",
+        "A classic analog synth solo sound."
+      ],
+      "088": [
+        "Fat Mini",
+        "G-1 - A5",
+        "A classic analog synth solo sound with fatter timbre."
+      ],
+      "089": [
+        "Parlopho",
+        "B-1 - C5",
+        "If it was possible to mix an accordion with a trumpet it might sound like this."
+      ],
+      "090": [
+        "SimpleSy",
+        "B-1 - E5",
+        "Breath controlled filter synth sound."
+      ],
+      "091": [
+        "Choronic",
+        "C0 - G5",
+        "Synth brass solo sound."
+      ],
+      "092": [
+        "SlitMinu",
+        "F0 - C6",
+        "AT control of Rotor Speed of FX."
+      ],
+      "093": [
+        "SynHarmo",
+        "B-1 - G6",
+        "Filter changed by velocity."
+      ],
+      "094": [
+        "Flaggoot",
+        "C0 - D4",
+        "Vibrato will cause sound to drop an octave except in lower range."
+      ],
+      "095": [
+        "SynSkex",
+        "C0 - A#5",
+        "Analog/acoustic hybrid lead sound with resonant filter."
+      ],
+      "096": [
+        "ResoSqr",
+        "A-1 - D5",
+        "Lowering FC (CC#4) opens filter."
+      ],
+      "097": [
+        "WurliLd",
+        "B-1 - C6",
+        "Dark, reed electric piano style synth lead."
+      ],
+      "098": [
+        "FlatLead",
+        "G#1 - G5",
+        "Analog / digital lead with thick, fat non-dynamic character."
+      ],
+      "099": [
+        "PhilTur",
+        "B-1 - C6",
+        "Bright, resonant synth brass lead with accentuated filter dynamic range."
+      ],
+      "100": [
+        "ChalPuls",
+        "B-1 - C6",
+        "Synth lead with an indefinably \u201cacoustic\u201d atmosphere."
+      ],
+      "101": [
+        "Pluck Ld",
+        "B-1 - C6",
+        "Speedy Synthlead with Guitarlike attack."
+      ],
+      "102": [
+        "Brassyn",
+        "B-1 - C6",
+        "Bright analog synthbrass."
+      ],
+      "103": [
+        "AcoSynLd",
+        "A-1 - C6",
+        "Analog synth lead-type sound with an acoustic flavor."
+      ],
+      "104": [
+        "Moby",
+        "G-1 - F5",
+        "A strange sound in which gradual application of AT increases the fundamental. The key lies in how you use AT."
+      ],
+      "105": [
+        "Digitrn",
+        "C0 - C6",
+        "Digital wavetable style wind controller synth lead."
+      ],
+      "106": [
+        "LyricOff",
+        "B-1 - C6",
+        "Pulse wave style analog wind controller synth lead."
+      ],
+      "107": [
+        "Rezzawi",
+        "B-1 - G5",
+        "Bright, resonant sawtooth style analog wind controller synth lead."
+      ],
+      "108": [
+        "Macro",
+        "B-1 - C6",
+        "Assignable Controller(CC#16) control of harmonic enhancer gives a variety oftimbres."
+      ],
+      "109": [
+        "Claribo",
+        "G#-1 - G5",
+        "AT controls brightness"
+      ],
+      "110": [
+        "Binaphon",
+        "C0 - C6",
+        "New acoustic model. Clarinet style voice."
+      ],
+      "111": [
+        "MokoPipe",
+        "C0 - C6",
+        "Somewhere around Uillean pipes."
+      ],
+      "112": [
+        "AliBaba",
+        "B-1 - C6",
+        "Play with lots of PB. Try controlling vibrato from Pitch Wheel."
+      ],
+      "113": [
+        "Persinet",
+        "B-1 - G5",
+        "Single reed new acoustic model."
+      ],
+      "114": [
+        "PicoPipe",
+        "G#0 - C6",
+        "Try using lots of PB embouchure control."
+      ],
+      "115": [
+        "Gertrude",
+        "C0 - C6",
+        "Ethnic wood wind sound."
+      ],
+      "116": [
+        "Xynth",
+        "G-1 - C6",
+        "Woodwind guitar synth thing."
+      ],
+      "117": [
+        "Duality",
+        "G-1 - C6",
+        "Synth wind instrument."
+      ],
+      "118": [
+        "AltKwek",
+        "G#1 - C7",
+        "New hybrid, double reed driven cynlindrical metal woodwind (oboe reed and a piccolo body)."
+      ],
+      "119": [
+        "Softblow",
+        "C0 - C6",
+        "Gentle sax type sound."
+      ],
+      "120": [
+        "AlbaPipe",
+        "C0 - C6",
+        "Boxy sounding double reed with additional lower octave undertone."
+      ],
+      "121": [
+        "Electrum",
+        "C0 - C6",
+        "Expressive brass like sound."
+      ],
+      "122": [
+        "Edgeopho",
+        "B-1 - F5",
+        "Somewhere between a \u201930s saxophone and distorted blues harmonica. PB control of embouchure is inverted."
+      ],
+      "123": [
+        "BassCla!",
+        "C0 - C6",
+        "A simulation of Bass Clarinet."
+      ],
+      "124": [
+        "WX Clari",
+        "C1 - C6",
+        "Clarinet sound suitable for performance with a wind controller."
+      ],
+      "125": [
+        "WX Oboe",
+        "C0 - B5",
+        "Oboe sound suitable for performance with a wind controller."
+      ],
+      "126": [
+        "WX J Gtr",
+        "C0 - A4",
+        "Jazz guitar sound suitable for performance with a wind controller. Breath character simulates string muting."
+      ],
+      "127": [
+        "Shakuha!",
+        "C1 - C6",
+        "A shakuhachi simulation. Moving CC#13 produces the upper (falsetto) register."
+      ],
+      "128": [
+        "LipClari",
+        "F-1 - C6",
+        "LipClari Imaginary instrument simulating a trumpet mouthpiece blown through a clarinet body."
+      ]
+    },
+    "B": {
+      "001": [
+        "Vento",
+        "C0 - C6",
+        "High noise content in this flute type sound."
+      ],
+      "002": [
+        "Floboe",
+        "C0 - C6",
+        "Imaginary instrument combining a flute and oboe."
+      ],
+      "003": [
+        "Sintax",
+        "F0 - C5",
+        "Synthetic sax type sound."
+      ],
+      "004": [
+        "Eastern",
+        "E0 - C6",
+        "In conjunction with mode shift from PB can be used for \u201cclassic\u201d Shakuhachi sample effect."
+      ],
+      "005": [
+        "Trumpet!",
+        "C0 - C6",
+        "Simulation of Trumpet."
+      ],
+      "006": [
+        "SoprSax!",
+        "C0 - C6",
+        "Simulation of Soprano sax."
+      ],
+      "007": [
+        "LiteAlto",
+        "E0 - C6",
+        "Light-feeling alto sax with significant noise component."
+      ],
+      "008": [
+        "Trmbone!",
+        "C0 - C6",
+        "Simulation of a trombone."
+      ],
+      "009": [
+        "BtlFlute",
+        "C0 - C6",
+        "Flute sound similar to a softly blown bottle."
+      ],
+      "010": [
+        "Air Sax",
+        "G0 - C6",
+        "A sax-type instrument that could not exist in reality, produceable only by the VL."
+      ],
+      "011": [
+        "TenrSax!",
+        "C0 - C6",
+        "Simulation of Tenor sax."
+      ],
+      "012": [
+        "Coca",
+        "C1 - C6",
+        "Pan flute sort of thing. Vibrato using pressure (BC) is particularly effective."
+      ],
+      "013": [
+        "JetLpBow",
+        "A-1 - C6",
+        "A subtle sound with a violin-like attack, combining a reed (oboe type) and flute-type instrument."
+      ],
+      "014": [
+        "Viol Inn",
+        "C0 - C6",
+        "A new acoustic sound based on bowed string instruments. Quite usable as a violin."
+      ],
+      "015": [
+        "MuteCone",
+        "G0 - C6",
+        "Muted trumpet with PB \u201cmode\u201d effect."
+      ],
+      "016": [
+        "BrethBow",
+        "B-1 - C6",
+        "A sound somewhere between strings and a blown feel."
+      ],
+      "017": [
+        "Trumpt!2",
+        "C0 - C6",
+        "Trumpet sound."
+      ],
+      "018": [
+        "FluglHr!",
+        "C0 - C6",
+        "Simulation of Flugelhorn"
+      ],
+      "019": [
+        "Cornet",
+        "C0 - C6",
+        "Cornet sound suitable for classical music."
+      ],
+      "020": [
+        "JzTrump",
+        "F#2 - C6",
+        "Trumpet sound suitable for jazz."
+      ],
+      "021": [
+        "JzTrump2",
+        "G#1 - C6",
+        "Bright trumpet. PB can be used to imitate a lip slur."
+      ],
+      "022": [
+        "Flumpet",
+        "D0 - C6",
+        "Resonant trumpet/flugely thing. PB controlls embouchure and pitch. Legato playing creates different tone."
+      ],
+      "023": [
+        "WXTrumpt",
+        "C0 - C6",
+        "Trumpet sound suitable for performance with a wind controller."
+      ],
+      "024": [
+        "MuteTp!",
+        "E0 - C6",
+        "Simulation of Mute trumpet."
+      ],
+      "025": [
+        "MuteTp!2",
+        "C0 - C6",
+        "Another Mute trumpet."
+      ],
+      "026": [
+        "Melwbone",
+        "C0 - C6",
+        "Mellow Trombone sound."
+      ],
+      "027": [
+        "NerzoBr",
+        "E0 - C6",
+        "Bright synthetic brass with PB \u201cshake\u201d effect."
+      ],
+      "028": [
+        "Horn!",
+        "B-1 - C6",
+        "Simulation of Horn."
+      ],
+      "029": [
+        "Horn!2",
+        "C0 - C6",
+        "Another Horn."
+      ],
+      "030": [
+        "NuHorne",
+        "B-1 - C6",
+        "Mellow french horn with PB \u201cshake\u201d effect."
+      ],
+      "031": [
+        "WX Horn",
+        "B-1 - C6",
+        "Horn sound suitable for performance with a wind controller."
+      ],
+      "032": [
+        "Tuba!",
+        "C0 - C6",
+        "Tuba simulation."
+      ],
+      "033": [
+        "NuViolin",
+        "C0 - C6",
+        "A light violin sound."
+      ],
+      "034": [
+        "C Violin",
+        "C0 - C6",
+        "Violin sound suitable for classical music."
+      ],
+      "035": [
+        "BrtVioln",
+        "C0 - C6",
+        "A bright violin sound."
+      ],
+      "036": [
+        "MuteViol",
+        "C0 - C6",
+        "The sound of a violin with an attached mute."
+      ],
+      "037": [
+        "BrtViola",
+        "C0 - C6",
+        "A bright viola sound, extending from cello range to violin range."
+      ],
+      "038": [
+        "ViolOutt",
+        "C0 - C6",
+        "Bowed-string sound with a sliding feel to the bow."
+      ],
+      "039": [
+        "Cello!",
+        "C0 - C5",
+        "Cello simulation."
+      ],
+      "040": [
+        "Eleanor",
+        "C0 - C5",
+        "The sound of a cello being played in the center of the string. Becomes a wind instrument-like sound in the high register."
+      ],
+      "041": [
+        "Nu Cello",
+        "B-1 - C6",
+        "Cello variation sound."
+      ],
+      "042": [
+        "Contrair",
+        "A-1 - C5",
+        "String bass simulation."
+      ],
+      "043": [
+        "DoublBow",
+        "A-1 - C5",
+        "A string bass that is fairly close to a wind instrument."
+      ],
+      "044": [
+        "Piccolo!",
+        "C0 - C7",
+        "Simulaton of piccolo."
+      ],
+      "045": [
+        "Piccol!2",
+        "C0 - C7",
+        "Another piccolo."
+      ],
+      "046": [
+        "BowPicol",
+        "C0 - G6",
+        "A piccolo flute sound with a bowed string flavor."
+      ],
+      "047": [
+        "C Flute",
+        "C0 - C6",
+        "Flute simulation. Editing the controller settings to increase the breath noise depth will change the nuance of the sound."
+      ],
+      "048": [
+        "C Flute2",
+        "C0 - C6",
+        "Another flute simulation."
+      ],
+      "049": [
+        "JazFlute",
+        "B-1 - C6",
+        "Flute sound suitable for jazz."
+      ],
+      "050": [
+        "OakFlute",
+        "E0 - C6",
+        "Flute sound with hard wooden resonance."
+      ],
+      "051": [
+        "BtlFlut2",
+        "C0 - C6",
+        "Flute-type bottle sound."
+      ],
+      "052": [
+        "RzdeFlt",
+        "E0 - C6",
+        "Expressive resonant flutey sound."
+      ],
+      "053": [
+        "Flutuen",
+        "G1 - C6",
+        "Heavily filtered, synth flute/woodwind lead."
+      ],
+      "054": [
+        "Nz Flute",
+        "C0 - C6",
+        "Flute sound with large noise component."
+      ],
+      "055": [
+        "WX Shaku",
+        "C1 - C6",
+        "Shakuhachi sound suitable for performance with a wind controller."
+      ],
+      "056": [
+        "Pan Pipe",
+        "E0 - G5",
+        "Pan flute simulation. It is effective to edit the controller settings so that growl can be applied."
+      ],
+      "057": [
+        "PanPicol",
+        "C0 - G6",
+        "Another pan flute sound with a beautiful high register."
+      ],
+      "058": [
+        "Bamboo",
+        "C0 - C6",
+        "The sound of a bamboo pipe."
+      ],
+      "059": [
+        "Andean",
+        "C0 - C6",
+        "The sound of a wooden or bamboo flute such as the quena."
+      ],
+      "060": [
+        "Flurinet",
+        "F0 - C6",
+        "Clarinet with flute mouthpiece."
+      ],
+      "061": [
+        "SoftReed",
+        "C0 - C6",
+        "A sound that mixes oboe with soprano sax, but having a unique feel possessed by neither instrument."
+      ],
+      "062": [
+        "Flurmod",
+        "F0 - B5",
+        "New hybrid, woody reed flute. Keep high breath pressure and hard tonguing when playing in upper mode (with PB = max)."
+      ],
+      "063": [
+        "Jhopali",
+        "G0 - C5",
+        "New accordion/hurdy gurdy hybrid with unique AT controlled fifth\u2019s undertone. Play ethnic style melodies, playing with hard finger pressure to bounce off the aftertouch sensor to emphasize selected notes with the fifth undertone."
+      ],
+      "064": [
+        "Baroquen",
+        "C0 - C6",
+        "A nostalgic sound combining a flute and reed instrument. Try a slow build-up of breath for refined elegance."
+      ],
+      "065": [
+        "SquealAT",
+        "C0 - C6",
+        "Pipe-type synth-lead sound. Try using AT to create extreme performance effects!"
+      ],
+      "066": [
+        "NuSopSax",
+        "C0 - G5",
+        "Mellow pop/fusion style soprano sax. Use (-) PB for \u201cscoop\u201d effect and (+) PB for \u201cgrowl\u201d effect."
+      ],
+      "067": [
+        "CvSopSax",
+        "A-1 - C6",
+        "Simulation of a curved body-type soprano sax."
+      ],
+      "068": [
+        "SoprPipe",
+        "F0 - C6",
+        "Soprano sax sound close to a clarinet."
+      ],
+      "069": [
+        "LiteSopr",
+        "E0 - C6",
+        "Light feeling sax sound in the soprano-alto range."
+      ],
+      "070": [
+        "AnaSoprn",
+        "F0 - C6",
+        "Mid-way between a graceful analog synth sound and a soprano sax."
+      ],
+      "071": [
+        "NuAltSax",
+        "C0 - C5",
+        "Bright pop/rock/fusion style alto sax. Use (-) PB for \u201cscoop\u201d effect and (+) PB for \u201cgrowl\u201d effect."
+      ],
+      "072": [
+        "SweetAlt",
+        "F#0 - E5",
+        "Sweet-sounding alto sax simulation."
+      ],
+      "073": [
+        "AltoSax!",
+        "E0 - C6",
+        "Simulation of a conventional alto sax."
+      ],
+      "074": [
+        "HarpAlto",
+        "G0 - C6",
+        "Strongly processed sax sound, with harmonica-like formants."
+      ],
+      "075": [
+        "HarpAlt2",
+        "G0 - C6",
+        "Sax sound with different processing."
+      ],
+      "076": [
+        "GlassAlt",
+        "C0 - C6",
+        "Alto sax sound with emphasized glass-like resonance."
+      ],
+      "077": [
+        "AcidSax",
+        "C0 - C6",
+        "Distorted acid sax - use BC for attack, FC (CC#4) controlls Tonguing...normal playing with FC (CC#4) at full. Lowering softens tonguing."
+      ],
+      "078": [
+        "WackSax",
+        "G#0 - E5",
+        "Bizarre tenor sax - BC heavily affects characteristics of tone. PB controls pitch and embouchure slightly. AT controls throat and scream."
+      ],
+      "079": [
+        "NuTenrSx",
+        "D0 - E5",
+        "Bright pop/rock/fusion style breathy tenor sax. Use (-) PB for \u201cscoop\u201d effect and (+) PB for \u201cgrowl\u201d effect."
+      ],
+      "080": [
+        "MildTenr",
+        "C0 - C6",
+        "A conventional tenor sax sound."
+      ],
+      "081": [
+        "Jazz Sax",
+        "A#0 - E5",
+        "Sax sound suitable for jazz."
+      ],
+      "082": [
+        "TenorSub",
+        "A#0 - A5",
+        "Sax sound with a sub-tone, suitable for blues."
+      ],
+      "083": [
+        "BellMike",
+        "C0 - C5",
+        "The sound of a sax recorded by a mic near the bell."
+      ],
+      "084": [
+        "GlasTenr",
+        "G0 - E5",
+        "Tenor sax sound with emphasized glass-like resonance."
+      ],
+      "085": [
+        "FnkyTenr",
+        "C0 - G5",
+        "An unstable tenor sax sound suitable for funky solos. Assign the Throat Formant to a suitable controller, and try adding a throat effect when appropriate."
+      ],
+      "086": [
+        "OldTenor",
+        "C0 - A5",
+        "The kind of tenor sax sound heard on old jazz records."
+      ],
+      "087": [
+        "BrtTenor",
+        "C0 - C6",
+        "Bright and tight tenor sax sound. Suitable for performance with a wind controller."
+      ],
+      "088": [
+        "BariSax!",
+        "C0 - C5",
+        "Simulation of Baritone sax"
+      ],
+      "089": [
+        "VoxoSaxo",
+        "C0 - C5",
+        "Breathy, vocal character, synthetic saxophone-like woodwind."
+      ],
+      "090": [
+        "Oboe!",
+        "F0 - C6",
+        "Simulation of Oboe."
+      ],
+      "091": [
+        "Oboe!2",
+        "C0 - C6",
+        "Another oboe."
+      ],
+      "092": [
+        "Noboe",
+        "C0 - G5",
+        "New hybrid/synthetic double reed."
+      ],
+      "093": [
+        "OboeWhi",
+        "G1 - G6",
+        "Oboe/whistle mix. PB up raises embouchure - all the way up is one octave above the fundamental. PB down decreases the embouchure and pitch."
+      ],
+      "094": [
+        "DblReedy",
+        "C0 - A5",
+        "Mysterious sound mixing a double-reed instrument with a \u201ckokyu\u201d (classical Asian bowed string instrument)."
+      ],
+      "095": [
+        "TripleRd",
+        "C0 - C6",
+        "New syncoustic reed, with hybrid Oboe and Harmonica character."
+      ],
+      "096": [
+        "EngHorn!",
+        "C0 - C6",
+        "Simulation of English horn"
+      ],
+      "097": [
+        "Loboe",
+        "C0 - C6",
+        "New double reed \u2014 a contrabass oboe !"
+      ],
+      "098": [
+        "Bassoon!",
+        "C0 - C5",
+        "Simulation of Bassoon."
+      ],
+      "099": [
+        "Clarint!",
+        "A0 - C6",
+        "Simulation of Clarinet."
+      ],
+      "100": [
+        "LitePipe",
+        "C0 - C6",
+        "Light-feeling synth lead sound close to a sax or clarinet"
+      ],
+      "101": [
+        "HyperCla",
+        "C0 - C6",
+        "A sound combining characteristics of synth lead, clarinet, sax, etc."
+      ],
+      "102": [
+        "Clarint2",
+        "F0 - C6",
+        "Jazz / big band solo clarinet with AT \u201cscoop\u201d effect."
+      ],
+      "103": [
+        "IslePipe",
+        "C1 - C5",
+        "New wooden ethnic flute."
+      ],
+      "104": [
+        "Chanter",
+        "D1 - C6",
+        "A simulation of a bagpipe\u2019s melodic note."
+      ],
+      "105": [
+        "ThaiReed",
+        "C0 - C5",
+        "A simulation of a south-east Asian (mainly Thai) flute."
+      ],
+      "106": [
+        "Recordr!",
+        "C0 - A5",
+        "Recorder simulation."
+      ],
+      "107": [
+        "Claricrd",
+        "C0 - C5",
+        "Basically the sound of a medieval reed instrument (like the clarinet\u2019s ancestor). As you play into the higher register, it takes on more of a recorder-like character."
+      ],
+      "108": [
+        "SoftPipe",
+        "G0 - C5",
+        "A soft-toned recorder."
+      ],
+      "109": [
+        "BowdSaw",
+        "C0 - C5",
+        "The sound of a bowed saw, with a character like the Ondes Martenot or Theremin (both early electronic instruments)."
+      ],
+      "110": [
+        "Ocarina!",
+        "F0 - C7",
+        "Ocarina simulation."
+      ],
+      "111": [
+        "Lonely",
+        "C#2 - E6",
+        "Synth lead-like woodwind instrument with few overtones."
+      ],
+      "112": [
+        "Ophelia",
+        "C0 - C6",
+        "Gentle synth lead with mellow sound. Suitable for performance with a wind controller."
+      ],
+      "113": [
+        "Maysbe?",
+        "D#0 - A5",
+        "Synth lead with brass character in the attack."
+      ],
+      "114": [
+        "MizuHorn",
+        "C0 - C6",
+        "Synth lead sound with brass character."
+      ],
+      "115": [
+        "PicoStrg",
+        "G#0 - C5",
+        "Stringy pipe sound."
+      ],
+      "116": [
+        "Sylophon",
+        "C0 - C5",
+        "Bright, nasal sound with Eastern influences."
+      ],
+      "117": [
+        "BowLead",
+        "C0 - C6",
+        "Violinesque lead sound - velocity controls embouchure and damping. FC (CC#4) controls filter and tonguing. For strongest attack, FC (CC#4) at full. Lowering softens tonguing and closes filter."
+      ],
+      "118": [
+        "Squeeze",
+        "C0 - C6",
+        "Accordion simulation."
+      ],
+      "119": [
+        "MouthKey",
+        "C0 - C6",
+        "Simulation of a reed-type wind instrument with a keyboard."
+      ],
+      "120": [
+        "AmpdHarp",
+        "C0 - C6",
+        "Simulation of a miked blues harp played through a guitar amp."
+      ],
+      "121": [
+        "CromHarp",
+        "A-1 - C6",
+        "Chromatic harmonica simulation."
+      ],
+      "122": [
+        "WahUpHp",
+        "B-1 - C6",
+        "Funky harmonica with breath control wah."
+      ],
+      "123": [
+        "YamaBotl",
+        "A#1 - C6",
+        "Bottle-type sound with metallic resonance."
+      ],
+      "124": [
+        "Blowsoo",
+        "G-1 - C5",
+        "Bright, resonant synth brass lead with accentuated filter dynamic range."
+      ],
+      "125": [
+        "Brappo",
+        "C0 - C5",
+        "The sound of playing a tuba mouthpiece."
+      ],
+      "126": [
+        "Crumbon",
+        "E0 - G5",
+        "Mellow and warm new hybrid double reed (blend of crumhorm, trombone and oboe)."
+      ],
+      "127": [
+        "Klarina",
+        "E0 - B5",
+        "New hybrid single reed driven pan pipes. Use (-) PB for \u201cscoop\u201d effect and (+) PB for \u201cgrowl\u201d effect."
+      ],
+      "128": [
+        "ReedWin",
+        "E0 - C6",
+        "New hybrid jet lip driven cylindrical woodwind (a flute mouthpiece on a clarinet body)."
+      ]
+    }
+  },
+  "patchman": {
+    "A": {
+      "001": [
+        "Trumpet"
+      ],
+      "002": [
+        "Maynard"
+      ],
+      "003": [
+        "Alpert"
+      ],
+      "004": [
+        "Chet Tpt"
+      ],
+      "005": [
+        "Lead Tpt"
+      ],
+      "006": [
+        "ClassTpt"
+      ],
+      "007": [
+        "StrMtTpt"
+      ],
+      "008": [
+        "CupMtTpt"
+      ],
+      "009": [
+        "WahMtTpt"
+      ],
+      "010": [
+        "WaTptCC4"
+      ],
+      "011": [
+        "HrmMtTpt"
+      ],
+      "012": [
+        "Mute Tpt"
+      ],
+      "013": [
+        "Picc.Tpt"
+      ],
+      "014": [
+        "Cornet"
+      ],
+      "015": [
+        "Flugel"
+      ],
+      "016": [
+        "Mangione"
+      ],
+      "017": [
+        "Trombone"
+      ],
+      "018": [
+        "Big Bone"
+      ],
+      "019": [
+        "BriteTbn"
+      ],
+      "020": [
+        "ValveTbn"
+      ],
+      "021": [
+        "Jam Bone"
+      ],
+      "022": [
+        "Bass Tbn"
+      ],
+      "023": [
+        "BcktMtTb"
+      ],
+      "024": [
+        "DorseyTb"
+      ],
+      "025": [
+        "WX Horn"
+      ],
+      "026": [
+        "BrassHrn"
+      ],
+      "027": [
+        "BriteHrn"
+      ],
+      "028": [
+        "ff Horn"
+      ],
+      "029": [
+        "OrchHorn"
+      ],
+      "030": [
+        "New Horn"
+      ],
+      "031": [
+        "Euphnium"
+      ],
+      "032": [
+        "Tuba"
+      ],
+      "033": [
+        "SoprnoSx"
+      ],
+      "034": [
+        "KennyGee"
+      ],
+      "035": [
+        "HeyKenG."
+      ],
+      "036": [
+        "Branford"
+      ],
+      "037": [
+        "TraneSop"
+      ],
+      "038": [
+        "BrtSopSx"
+      ],
+      "039": [
+        "Alto Sax"
+      ],
+      "040": [
+        "Sanborn"
+      ],
+      "041": [
+        "BirdAlto"
+      ],
+      "042": [
+        "ExprAlto"
+      ],
+      "043": [
+        "Desmond"
+      ],
+      "044": [
+        "Koz Alto"
+      ],
+      "045": [
+        "Everette"
+      ],
+      "046": [
+        "NY Alto"
+      ],
+      "047": [
+        "NY Tenor"
+      ],
+      "048": [
+        "TenorSax"
+      ],
+      "049": [
+        "MBrecker"
+      ],
+      "050": [
+        "PopTenor"
+      ],
+      "051": [
+        "SoulTenr"
+      ],
+      "052": [
+        "RaspyTnr"
+      ],
+      "053": [
+        "Getz Tnr"
+      ],
+      "054": [
+        "JobimTnr"
+      ],
+      "055": [
+        "TenorSub"
+      ],
+      "056": [
+        "Bari Sax"
+      ],
+      "057": [
+        "TiteBari"
+      ],
+      "058": [
+        "Sax Sect"
+      ],
+      "059": [
+        "Air Sax"
+      ],
+      "060": [
+        "Saxual"
+      ],
+      "061": [
+        "Sanford"
+      ],
+      "062": [
+        "Piccolo"
+      ],
+      "063": [
+        "Flute"
+      ],
+      "064": [
+        "Real Flt"
+      ],
+      "065": [
+        "SilvrFlt"
+      ],
+      "066": [
+        "ClassFlt"
+      ],
+      "067": [
+        "Nz Flute"
+      ],
+      "068": [
+        "VoxFlute"
+      ],
+      "069": [
+        "AquaFlut"
+      ],
+      "070": [
+        "OakFlute"
+      ],
+      "071": [
+        "Bass Flt"
+      ],
+      "072": [
+        "Afri Flt"
+      ],
+      "073": [
+        "PennyWhs"
+      ],
+      "074": [
+        "TinWhist"
+      ],
+      "075": [
+        "Flutofon"
+      ],
+      "076": [
+        "Inca Flt"
+      ],
+      "077": [
+        "Noze Flt"
+      ],
+      "078": [
+        "Quena"
+      ],
+      "079": [
+        "Quena x2"
+      ],
+      "080": [
+        "PanFlute"
+      ],
+      "081": [
+        "Andean"
+      ],
+      "082": [
+        "Pan Pipe"
+      ],
+      "083": [
+        "Bali Flt"
+      ],
+      "084": [
+        "IndiaFlt"
+      ],
+      "085": [
+        "Ambience"
+      ],
+      "086": [
+        "WetFone"
+      ],
+      "087": [
+        "Maya Flt"
+      ],
+      "088": [
+        "Shakuhat"
+      ],
+      "089": [
+        "Bamboo"
+      ],
+      "090": [
+        "PanPicol"
+      ],
+      "091": [
+        "Coca!!"
+      ],
+      "092": [
+        "Ocarina!"
+      ],
+      "093": [
+        "Lonely"
+      ],
+      "094": [
+        "Recorder"
+      ],
+      "095": [
+        "Clarinet"
+      ],
+      "096": [
+        "JazzClar"
+      ],
+      "097": [
+        "ClsClrnt"
+      ],
+      "098": [
+        "Bs.Clrnt"
+      ],
+      "099": [
+        "BrtBsClr"
+      ],
+      "100": [
+        "Oboe"
+      ],
+      "101": [
+        "Eng.Horn"
+      ],
+      "102": [
+        "SftEngHn"
+      ],
+      "103": [
+        "Bassoon"
+      ],
+      "104": [
+        "Flurinet"
+      ],
+      "105": [
+        "Crumbon"
+      ],
+      "106": [
+        "Klarina"
+      ],
+      "107": [
+        "ThaiReed"
+      ],
+      "108": [
+        "Chanter"
+      ],
+      "109": [
+        "Digirdoo"
+      ],
+      "110": [
+        "IslePipe"
+      ],
+      "111": [
+        "SoftPipe"
+      ],
+      "112": [
+        "LitePipe"
+      ],
+      "113": [
+        "CelloSax"
+      ],
+      "114": [
+        "YamaBotl"
+      ],
+      "115": [
+        "Solo Vln"
+      ],
+      "116": [
+        "DrkVioln"
+      ],
+      "117": [
+        "BrtVioln"
+      ],
+      "118": [
+        "SweetVln"
+      ],
+      "119": [
+        "Fiddle"
+      ],
+      "120": [
+        "Viola"
+      ],
+      "121": [
+        "SwtViola"
+      ],
+      "122": [
+        "RosinVla"
+      ],
+      "123": [
+        "Cello"
+      ],
+      "124": [
+        "SoloCell"
+      ],
+      "125": [
+        "DrkCello"
+      ],
+      "126": [
+        "Bow Bass"
+      ],
+      "127": [
+        "HiStrEns"
+      ],
+      "128": [
+        "Pizzicat"
+      ]
+    },
+    "B": {
+      "001": [
+        "Harmonca"
+      ],
+      "002": [
+        "MouthHrp"
+      ],
+      "003": [
+        "BluesHrm"
+      ],
+      "004": [
+        "Stevie!"
+      ],
+      "005": [
+        "Toots!"
+      ],
+      "006": [
+        "Accordn."
+      ],
+      "007": [
+        "Concrtna"
+      ],
+      "008": [
+        "Jazz B3"
+      ],
+      "009": [
+        "Clavinet"
+      ],
+      "010": [
+        "Funky"
+      ],
+      "011": [
+        "SteelDrm"
+      ],
+      "012": [
+        "VL Drums"
+      ],
+      "013": [
+        "Yangchin"
+      ],
+      "014": [
+        "Asia Plk"
+      ],
+      "015": [
+        "JapanPlk"
+      ],
+      "016": [
+        "Tambura"
+      ],
+      "017": [
+        "Sitar"
+      ],
+      "018": [
+        "ElecHarp"
+      ],
+      "019": [
+        "SteelGtr"
+      ],
+      "020": [
+        "AcGuitar"
+      ],
+      "021": [
+        "Flamenco"
+      ],
+      "022": [
+        "SpainGtr"
+      ],
+      "023": [
+        "NylonGtr"
+      ],
+      "024": [
+        "SwtNylGt"
+      ],
+      "025": [
+        "Les Gtr"
+      ],
+      "026": [
+        "Joe Pass"
+      ],
+      "027": [
+        "FMGuitar"
+      ],
+      "028": [
+        "Lucille"
+      ],
+      "029": [
+        ">>PAT<<"
+      ],
+      "030": [
+        "EFXStrat"
+      ],
+      "031": [
+        "ClnStrat"
+      ],
+      "032": [
+        "Surf Gtr"
+      ],
+      "033": [
+        "Mute Gtr"
+      ],
+      "034": [
+        "WahGtCC4"
+      ],
+      "035": [
+        "PatSynGt"
+      ],
+      "036": [
+        "BluesGtr"
+      ],
+      "037": [
+        "Clapton"
+      ],
+      "038": [
+        "PopODGtr"
+      ],
+      "039": [
+        "Carlos"
+      ],
+      "040": [
+        "TubeGtr!"
+      ],
+      "041": [
+        "FET Guit"
+      ],
+      "042": [
+        "Dist.Gtr"
+      ],
+      "043": [
+        "Wah Lead"
+      ],
+      "044": [
+        "Wah Dist"
+      ],
+      "045": [
+        "GuitHero"
+      ],
+      "046": [
+        "Eddie4th"
+      ],
+      "047": [
+        "Feedback"
+      ],
+      "048": [
+        "Hendrix"
+      ],
+      "049": [
+        "TalkBox!"
+      ],
+      "050": [
+        "!XTREME!"
+      ],
+      "051": [
+        "Hercules"
+      ],
+      "052": [
+        "SynClav"
+      ],
+      "053": [
+        "Syncro!"
+      ],
+      "054": [
+        "Theremin"
+      ],
+      "055": [
+        "Avalana"
+      ],
+      "056": [
+        "Voxanne"
+      ],
+      "057": [
+        "Beauty!"
+      ],
+      "058": [
+        "SpaceOut"
+      ],
+      "059": [
+        "Ghost Ld"
+      ],
+      "060": [
+        "PtchNoiz"
+      ],
+      "061": [
+        "BreathTb"
+      ],
+      "062": [
+        "Air Lead"
+      ],
+      "063": [
+        "Breezer"
+      ],
+      "064": [
+        "ZawiLead"
+      ],
+      "065": [
+        "Voxofone"
+      ],
+      "066": [
+        "Whistler"
+      ],
+      "067": [
+        "Debussy"
+      ],
+      "068": [
+        "Sines()"
+      ],
+      "069": [
+        "SmoothLd"
+      ],
+      "070": [
+        "Slinky"
+      ],
+      "071": [
+        "AirStick"
+      ],
+      "072": [
+        "RotoFone"
+      ],
+      "073": [
+        "Vox Lead"
+      ],
+      "074": [
+        "Squeezy"
+      ],
+      "075": [
+        "Lyricon"
+      ],
+      "076": [
+        "Ana.Lead"
+      ],
+      "077": [
+        "Mobius"
+      ],
+      "078": [
+        "70s Lead"
+      ],
+      "079": [
+        "Osc Lead"
+      ],
+      "080": [
+        "Saw Lead"
+      ],
+      "081": [
+        "SAWS/|/|"
+      ],
+      "082": [
+        "ResoSaws"
+      ],
+      "083": [
+        "EML Lead"
+      ],
+      "084": [
+        "HPFilter"
+      ],
+      "085": [
+        "EWI ARP"
+      ],
+      "086": [
+        "EWI Lead"
+      ],
+      "087": [
+        "Koz Lead"
+      ],
+      "088": [
+        "MattLead"
+      ],
+      "089": [
+        "PATCHMAN"
+      ],
+      "090": [
+        "Taurus"
+      ],
+      "091": [
+        "Phaser-{"
+      ],
+      "092": [
+        "SynZilla"
+      ],
+      "093": [
+        "MegaSyn"
+      ],
+      "094": [
+        "Winwood"
+      ],
+      "095": [
+        "Pulse Ld"
+      ],
+      "096": [
+        "Corea!!"
+      ],
+      "097": [
+        "SquareLd"
+      ],
+      "098": [
+        "Korg Ld"
+      ],
+      "099": [
+        "LuckyMan"
+      ],
+      "100": [
+        "Lyle"
+      ],
+      "101": [
+        "Analog"
+      ],
+      "102": [
+        "Nyle"
+      ],
+      "103": [
+        "Floyd Ld"
+      ],
+      "104": [
+        "BorgHorn"
+      ],
+      "105": [
+        "Freik"
+      ],
+      "106": [
+        "Fazar"
+      ],
+      "107": [
+        "Dungeon"
+      ],
+      "108": [
+        "NevrLand"
+      ],
+      "109": [
+        "Brekord1"
+      ],
+      "110": [
+        "Brekord2"
+      ],
+      "111": [
+        "Brekord3"
+      ],
+      "112": [
+        "ElecBass"
+      ],
+      "113": [
+        "MotownBs"
+      ],
+      "114": [
+        "SteinBas"
+      ],
+      "115": [
+        "FunkBass"
+      ],
+      "116": [
+        "PickBass"
+      ],
+      "117": [
+        "SnapBass"
+      ],
+      "118": [
+        "Thumb Bs"
+      ],
+      "119": [
+        "TiteBass"
+      ],
+      "120": [
+        "JacoBass"
+      ],
+      "121": [
+        "StratoBs"
+      ],
+      "122": [
+        "Sticky!"
+      ],
+      "123": [
+        "MuteBass"
+      ],
+      "124": [
+        "Ac Bass"
+      ],
+      "125": [
+        "Juicy Bs"
+      ],
+      "126": [
+        "GnarlyBs"
+      ],
+      "127": [
+        "Moog Bs"
+      ],
+      "128": [
+        "Bass1000"
+      ]
+    }
+  }
+}
