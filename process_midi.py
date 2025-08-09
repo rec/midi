@@ -66,14 +66,17 @@ def read_ranges():
     res = {}
     for instrument, r in _RANGES.items():
         for bank, rr in r.items():
-            i = 1
+            start = 1
             ib = f"{instrument}:{bank}"
             for cat, index in rr:
-                cats = res.setdefault(cat, [])
-                for i in range(i, index + 1):
+                for i in range(start, index + 1):
                     pc = f"{i:03}"
+                    if False and (ib, pc) != ("patchman:B", "005"):
+                        continue
+                    cats = res.setdefault(cat, [])
                     name = VL70_DATA[instrument][bank][pc][0]
                     cats.append(f"{ib}:{pc}: {name}")
+                start = index + 1
 
     dump(res, "ranges.json")
 
