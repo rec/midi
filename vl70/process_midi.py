@@ -74,7 +74,7 @@ def read_ranges():
                     if False and (ib, pc) != ("patchman:B", "005"):
                         continue
                     cats = res.setdefault(cat, [])
-                    name = VL70_DATA[instrument][bank][pc][0]
+                    name = " ".join(VL70_DATA[instrument][bank][pc])
                     cats.append(f"{ib}:{pc}: {name}")
                 start = index + 1
 
@@ -125,9 +125,9 @@ _RANGES = {
             ("reed", 120),
             ("brass", 121),
             ("sax", 122),
-            ("clari", 124),
+            ("clarinet", 124),
             ("reed", 125),
-            ("guitar", 126),
+            ("electric guitar", 126),
             ("pipe", 127),
             ("clarinet", 128),
         ),
@@ -189,8 +189,9 @@ _RANGES = {
             ("pipe", 94),
             ("clarinet", 99),
             ("reed", 108),
-            ("drone", 109),
             ("pipe", 112),
+            ("cello", 113),
+            ("pipe", 114),
             ("violin", 122),
             ("cello", 126),
             ("strings", 128),
@@ -202,7 +203,7 @@ _RANGES = {
             ("percussion", 12),
             ("plucked", 18),
             ("acoustic guitar", 24),
-            ("electric guitar", 49),
+            ("electric guitar", 48),
             ("synth", 108),
             ("sax", 111),
             ("bass", 128),
