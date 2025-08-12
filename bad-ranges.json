@@ -1,0 +1,16 @@
+    "stock:A:085: Talk Box F#0 - E7 Voicy Lead, somehow like a guitar-Talkbox.",
+  "clari": [
+    "stock:A:123: BassCla! C0 - C6 A simulation of Bass Clarinet.",
+    "stock:A:124: WX Clari C1 - C6 Clarinet sound suitable for performance with a wind controller."
+  ],
+  "guitar": [
+    "stock:A:126: WX J Gtr C0 - A4 Jazz guitar sound suitable for performance with a wind controller. Breath character simulates string muting."
+  ],
+  "violin": [
+    "patchman:A:113: CelloSax",
+    "patchman:A:114: YamaBotl",
+  ],
+  "drone": [
+    "patchman:A:109: Digirdoo"
+  ]
+}
