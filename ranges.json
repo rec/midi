@@ -428,6 +428,8 @@
     "stock:B:001: Vento C0 - C6 High noise content in this flute type sound.",
     "stock:B:002: Floboe C0 - C6 Imaginary instrument combining a flute and oboe.",
     "stock:B:009: BtlFlute C0 - C6 Flute sound similar to a softly blown bottle.",
+    "stock:B:044: Piccolo! C0 - C7 Simulaton of piccolo.",
+    "stock:B:045: Piccol!2 C0 - C7 Another piccolo.",
     "stock:B:047: C Flute C0 - C6 Flute simulation. Editing the controller settings to increase the breath noise depth will change the nuance of the sound.",
     "stock:B:048: C Flute2 C0 - C6 Another flute simulation.",
     "stock:B:049: JazFlute B-1 - C6 Flute sound suitable for jazz.",
@@ -510,8 +512,6 @@
   ],
   "strings": [
     "stock:B:016: BrethBow B-1 - C6 A sound somewhere between strings and a blown feel.",
-    "stock:B:044: Piccolo! C0 - C7 Simulaton of piccolo.",
-    "stock:B:045: Piccol!2 C0 - C7 Another piccolo.",
     "stock:B:046: BowPicol C0 - G6 A piccolo flute sound with a bowed string flavor.",
     "stock:B:115: PicoStrg G#0 - C5 Stringy pipe sound.",
     "stock:B:117: BowLead C0 - C6 Violinesque lead sound - velocity controls embouchure and damping. FC (CC#4) controls filter and tonguing. For strongest attack, FC (CC#4) at full. Lowering softens tonguing and closes filter.",
