@@ -1,0 +1,64 @@
+64 slots
+
+best: 5
+
+bass: 6
+sax: 6
+
+reeds: 6
+flutes: 6
+
+world: 6
+
+guitar: 5
+perc/keys: 5
+
+fx: 5
+synth: 10
+
+
+
+bass: 3 clarinet: 2 +
+
+sax: 5
+guitar 5
+
+ethnic: 5
+reed: 5
+
+percussion: 5
+
+fx: 5
+synth1: 5
+synth2: 5
+
+
+
+
+  soprano
+  alto
+  tenor
+  bariton
+  bass
+
+----
+
+  oboe
+  bassoon
+  harmonica
+  reed organ
+
+  piano
+  organ
+  percussion: 3
+
+--
+
+flutes: 5
+
+string: 5
+  violin
+  viola
+  cello
+  bass string
+  section

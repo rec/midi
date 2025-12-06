@@ -5,13 +5,13 @@
   "Software": "7.4",
   "Serial": "001A00F1046EE68C000043A2",
   "Activated": "10",
-  "PresetName": "CMC no computer",
+  "PresetName": "CMC computer",
   "Router": [
     "10",
     "20",
     "40",
     "61",
-    "42",
+    "2",
     "4",
     "0",
     "0"
@@ -150,5 +150,5 @@
       "cfg2": "F5FA0187"
     }
   ],
-  "PresetSetting": "1003B00"
+  "PresetSetting": "1003B01"
 }

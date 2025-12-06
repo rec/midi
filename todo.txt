@@ -1,0 +1,22 @@
+Fix two patches in VL70
+Finish sysexy
+Make two banks and transfer them to VL70 and pman
+Build patch change list for M6
+Program patch types for M6
+Tablet + X18
+SP404
+Find card for ZOIA
+Get editor librarian working
+Write one simple ZOIA patch
+Write a reverse patch for ZOIA
+Write a multichannel looper
+
+
+For each slot
+  For each box
+    Find something corresponding to that category that I like
+       Store it in the patch
+       Repeat
+
+
+Create counters for each of
